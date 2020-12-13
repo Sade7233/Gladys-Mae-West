@@ -1,0 +1,43 @@
+html{
+  font-size: 16px;
+}
+body{
+  background-color: #800080;
+  color: silver;
+}
+h1{
+  text-align:center;
+  background-color: hotpink;
+}
+img {
+  width:85%;
+  height:85%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+#imagecaption {
+  margin-top: 0px;
+  text-align: center;
+}
+
+a{
+  color: orange;
+  text-decoration:none;
+
+}
+a:hover{
+  color: limegreen;
+}
+
+#nav-list > li{
+  display:flex;
+  padding-left: 50px;
+  list-style-type:none;
+}
+
+ul{
+  display:flex;
+  justify-content: center;
+}
