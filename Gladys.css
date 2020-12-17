@@ -10,8 +10,8 @@ h1{
   background-color: hotpink;
 }
 img {
-  width:85%;
-  height:85%;
+  width:60%;
+  height:60%;
   display:block;
   margin-left: auto;
   margin-right: auto;
@@ -20,6 +20,9 @@ img {
 #imagecaption {
   margin-top: 0px;
   text-align: center;
+}
+
+#FunFacts {text-align: center;
 }
 
 a{
@@ -35,9 +38,4 @@ a:hover{
   display:flex;
   padding-left: 50px;
   list-style-type:none;
-}
-
-ul{
-  display:flex;
-  justify-content: center;
 }
