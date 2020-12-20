@@ -25,7 +25,14 @@ img {
   text-align: center;
 }
 
-#FunFacts {text-align: center;
+#FunFactsContainer {
+  border-style: solid;
+  border-color: hotpink;
+  border-width: 8px;
+}
+
+#FunFacts {
+  text-align: center;
 }
 
 a{
