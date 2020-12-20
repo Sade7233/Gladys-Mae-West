@@ -33,6 +33,11 @@ img {
   text-align: center;
 }
 
+.TimelineList {
+  line-height: 3px;
+}
+
+
 a{
   color: orange;
   text-decoration:none;
