@@ -53,7 +53,7 @@ a:hover{
   list-style-type:none;
 }
 
-#nav-list > ul{
+ol{
   display:flex;
   justify-content: center;
 }
