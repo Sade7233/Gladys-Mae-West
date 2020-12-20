@@ -16,6 +16,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   border-radius: 30px;
+  border-style: groove;
+  border-color: hotpink;
 }
 #imagecaption {
   margin-top: 0px;
