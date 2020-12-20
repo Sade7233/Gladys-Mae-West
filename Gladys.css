@@ -20,6 +20,7 @@ img {
   border-color: hotpink;
   border-width: 10px;
 }
+
 #imagecaption {
   margin-top: 0px;
   text-align: center;
@@ -37,7 +38,6 @@ img {
   padding-bottom:7px;
 }
 
-
 a{
   color: orange;
   text-decoration:none;
@@ -49,6 +49,7 @@ a:hover{
 
 #nav-list > li{
   display:flex;
+  flex-direction: row;
   padding-left: 50px;
   list-style-type:none;
 }
