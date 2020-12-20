@@ -49,7 +49,11 @@ a:hover{
 
 #nav-list > li{
   display:flex;
-  flex-direction: row;
   padding-left: 50px;
   list-style-type:none;
+}
+
+ul{
+  display:flex;
+  justify-content: center;
 }
