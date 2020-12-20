@@ -52,3 +52,8 @@ a:hover{
   padding-left: 50px;
   list-style-type:none;
 }
+
+#nav-list > ul{
+  display:flex;
+  justify-content: center;
+}
