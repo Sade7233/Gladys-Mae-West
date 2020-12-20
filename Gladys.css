@@ -26,9 +26,7 @@ img {
 }
 
 #FunFactsContainer {
-  border-style: solid;
-  border-color: hotpink;
-  border-width: 8px;
+  border: 8px solid hotpink;
 }
 
 #FunFacts {
