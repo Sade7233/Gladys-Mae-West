@@ -18,6 +18,7 @@ img {
   border-radius: 30px;
   border-style: groove;
   border-color: hotpink;
+  border-width: 10px;
 }
 #imagecaption {
   margin-top: 0px;
